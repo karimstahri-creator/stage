@@ -1,0 +1,8 @@
+{
+  "name": "الجامعة التونسية للووشو كونغ فو",
+  "description": "المنظومة الوطنية الإدارية للجامعة التونسية للووشو كونغ فو لإدارة التربصات والبطولات الوطنية وتأكيد المشاركات",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
